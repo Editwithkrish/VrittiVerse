@@ -24,11 +24,11 @@ const clients = [
     description: 'Lifestyle brand built from ground up with strategic social media management'
   },
   {
-    name: 'Tech Startup',
-    growth: '5k to 75k engagement',
-    reach: '1.5M reach/month',
+    name: 'FinScan',
+    growth: '5k to 10k engagement',
+    reach: '100k reach/month',
     icon: BarChart,
-    description: 'B2B success story with focused content strategy and community building'
+    description: 'AI Powerd WebSite Which Helps You To Scan Your Financial Documents Made By Group 7 Only'
   }
 ];
 
