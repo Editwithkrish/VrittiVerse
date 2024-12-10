@@ -18,7 +18,7 @@ export default function ContactForm() {
               <Mail className="w-6 h-6 text-purple-400 mt-1" />
               <div>
                 <h3 className="text-lg font-semibold text-white mb-1">Email Us</h3>
-                <p className="text-gray-400">contact@vrittiverse.com</p>
+                <p className="text-gray-400">kaxxsays.businessonly@gmail.com</p>
               </div>
             </div>
             
@@ -26,7 +26,7 @@ export default function ContactForm() {
               <Phone className="w-6 h-6 text-purple-400 mt-1" />
               <div>
                 <h3 className="text-lg font-semibold text-white mb-1">Call Us</h3>
-                <p className="text-gray-400">+1 (555) 123-4567</p>
+                <p className="text-gray-400">+91 8057377897</p>
               </div>
             </div>
             
@@ -34,7 +34,7 @@ export default function ContactForm() {
               <MapPin className="w-6 h-6 text-purple-400 mt-1" />
               <div>
                 <h3 className="text-lg font-semibold text-white mb-1">Visit Us</h3>
-                <p className="text-gray-400">123 Digital Avenue, Tech Hub, CA 94105</p>
+                <p className="text-gray-400">MIT ADT University, Loni Kalbhor, Pune, Maharashtra, 412405</p>
               </div>
             </div>
           </div>
